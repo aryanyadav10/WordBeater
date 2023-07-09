@@ -1,4 +1,4 @@
-#WordBeater Game
+#WordBeater
 
 This is Speed Typing Game created with help of HTML , CSS  and Javascript.
 
